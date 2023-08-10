@@ -21,7 +21,7 @@
 
 0. [CISCO 네트워킹](https://dongdang.tistory.com/)
 
-# 🏆 2022 Achievements
+# 🏆 2023 Achievements
 
 ### leetcode Easy 알고리즘 문제 다 풀기
 
