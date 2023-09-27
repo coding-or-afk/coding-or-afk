@@ -2,10 +2,8 @@
 
 # 🔥 Goal
 ### 0. 부자되기
-### 1. 책 10권 읽기
-### 2. 삼성 알고리즘 A,B,C 취득
-### 3. 바디프로필
-### 4. 1일 1커밋
+### 1. LG SW역량인증 70점 넘기
+### 2. 1일 1커밋
 # 👩‍🎓 Achieved
 
 
@@ -16,10 +14,6 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/dongdang)](https://leetcode.com/dongdang)
 
 ---
-
-##### Book Review
-
-0. [CISCO 네트워킹](https://dongdang.tistory.com/)
 
 # 🏆 2023 Achievements
 
